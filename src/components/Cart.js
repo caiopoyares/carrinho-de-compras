@@ -103,12 +103,14 @@ const CartContainer = styled.div`
   background-color: #fefefe;
   color: #333;
   border-left: 1px solid #aaa;
-  min-width: 400px;
-  max-width: 95vw;
+  min-width: 100%;
   min-height: 100vh;
   transform: translateX(500px);
   transition: transform 0.5s ease-out;
   box-shadow: -4px 0 12px rgba(0, 0, 0, 0.1);
+  @media (min-width: 650px) {
+    min-width: 450px;
+  }
 
   &.open {
     overflow: hidden;

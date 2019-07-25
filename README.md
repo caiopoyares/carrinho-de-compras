@@ -4,7 +4,7 @@ Uma página com catálogo de produtos, que podem ser adicionados e removidos do 
 
 ## Como usar :punch:
 
-Para abrir o app, você deve clonar esse repositório e em seguida:
+Para abrir o app, você deve clonar esse repositório e em seguida, na pasta principal:
 
 1. Instalar as dependências
 
@@ -16,6 +16,12 @@ yarn
 
 ```
 yarn start
+```
+
+3. Para usar o Jest, execute:
+
+```
+yarn test
 ```
 
 Espero que gostem! :100:

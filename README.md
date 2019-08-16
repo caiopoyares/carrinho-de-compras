@@ -1,10 +1,10 @@
-# Desafio Just Digital
+# Carrinho de compras
 
 Uma página com catálogo de produtos, que podem ser adicionados e removidos do seu carrinho de compras. :fire:
 
 Para desenvolver o projeto, foram utilizadas ferramentas como **React, React Hooks, Redux e Styled Components.**
 
-## Como usar :punch:
+## Como usar
 
 Para abrir o app, você deve clonar esse repositório e em seguida, na pasta principal:
 
@@ -20,10 +20,4 @@ yarn
 yarn start
 ```
 
-3. Para usar o Jest, execute:
 
-```
-yarn test
-```
-
-Espero que gostem! :100:
